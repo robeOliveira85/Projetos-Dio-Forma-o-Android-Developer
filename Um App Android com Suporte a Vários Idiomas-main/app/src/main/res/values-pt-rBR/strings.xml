@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App de Suporte a Idiomas</string>
+    <string name="txt_greeting">Olá Mundo!</string>
+</resources>
